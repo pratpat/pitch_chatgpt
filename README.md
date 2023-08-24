@@ -57,7 +57,7 @@ The repo provides a way to upload your own data so it's ready to try end to end.
 
 ## Test Website
 
-[Chat and Ask over your data](https://dataaipdfchat.azurewebsites.net/)
+[Chat and Ask over your data]([https://ppatwariapp.azurewebsites.net/)])
 
 ## Features
 
