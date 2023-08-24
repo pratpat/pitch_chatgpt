@@ -47,7 +47,7 @@ def processStep1(pibIndexName, cik, step, symbol, temperature, llm, today):
         sData = {
                 'id' : str(uuid.uuid4()),
                 'symbol': symbol,
-                'cik': str(cik),
+                'cik': cik,
                 'step': step,
                 'description': 'Company Profile',
                 'insertedDate': today.strftime("%Y-%m-%d"),
